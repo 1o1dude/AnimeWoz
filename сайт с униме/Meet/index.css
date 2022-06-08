@@ -1,0 +1,27 @@
+header{
+    width: 100%;
+    height: 70px;
+    background: #d8e3abbe url(img/icon.png) no-repeat;
+    background-size: 70px;
+   }
+
+   .dead{
+       color: rgb(117, 204, 66);
+       margin-left: 550px;
+       margin-top: -10px;
+   }
+
+   .menu{
+    list-style: none;
+    position: absolute;
+    top: -3px;
+    right: 80px;
+   }
+
+   am{
+    position: fixed;
+   }
+
+body{
+    background-image: url(img/unime.png);
+}
